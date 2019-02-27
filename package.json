@@ -1,0 +1,16 @@
+{
+  "name": "hashcode-2019",
+  "version": "1.0.0",
+  "description": "Google Hash Code 2019",
+  "main": "index.js",
+  "repository": "git@github.com:julienthoma/hashcode-2019.git",
+  "author": "Julien Thoma <julien.thoma89@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.1.0"
+  },
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "jest"
+  }
+}
